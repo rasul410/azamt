@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "text": "How consistently do you highlight keywords while reading academic or professional texts?",
+        "options": [
+            ["Always \u2013 I highlight every key term systematically", 0],
+            ["Often \u2013 I highlight most important terms", 1],
+            ["Sometimes \u2013 I highlight when I remember to", 2],
+            ["Rarely \u2013 I almost never highlight", 3],
+            ["Never \u2013 I do not highlight at all", 4]
+        ]
+    },
+    {
+        "id": 2,
+        "text": "When reviewing highlighted material, how quickly can you reconstruct the main ideas?",
+        "options": [
+            ["Very quickly \u2013 within seconds per page", 0],
+            ["Quickly \u2013 within a minute per page", 1],
+            ["Moderately \u2013 takes a few minutes", 2],
+            ["Slowly \u2013 takes considerable time", 3],
+            ["Very slowly \u2013 I struggle to recall ideas", 4]
+        ]
+    },
+    {
+        "id": 3,
+        "text": "How well do your highlights reflect the actual key concepts of the text?",
+        "options": [
+            ["Extremely well \u2013 they capture all core ideas", 0],
+            ["Well \u2013 they capture most ideas", 1],
+            ["Adequately \u2013 they capture some ideas", 2],
+            ["Poorly \u2013 they miss many key ideas", 3],
+            ["Very poorly \u2013 they are mostly irrelevant", 4]
+        ]
+    },
+    {
+        "id": 4,
+        "text": "How often do you over-highlight (marking too much text, reducing efficiency)?",
+        "options": [
+            ["Never \u2013 my highlights are concise", 0],
+            ["Rarely \u2013 I occasionally over-highlight", 1],
+            ["Sometimes \u2013 I over-highlight moderately", 2],
+            ["Often \u2013 most of my text ends up highlighted", 3],
+            ["Always \u2013 I highlight almost everything", 4]
+        ]
+    },
+    {
+        "id": 5,
+        "text": "How effectively do you use colour-coding to categorise different types of information?",
+        "options": [
+            ["Very effectively \u2013 I have a clear colour system", 0],
+            ["Effectively \u2013 I use colours with some consistency", 1],
+            ["Somewhat effectively \u2013 my system is inconsistent", 2],
+            ["Ineffectively \u2013 I rarely use colour-coding", 3],
+            ["Not at all \u2013 I use a single colour or none", 4]
+        ]
+    },
+    {
+        "id": 6,
+        "text": "How confident are you in identifying which terms are truly 'keywords' in a passage?",
+        "options": [
+            ["Very confident \u2013 I reliably identify key terms", 0],
+            ["Confident \u2013 I am usually correct", 1],
+            ["Moderately confident \u2013 I am sometimes unsure", 2],
+            ["Low confidence \u2013 I often misjudge", 3],
+            ["Not confident at all \u2013 I struggle greatly", 4]
+        ]
+    },
+    {
+        "id": 7,
+        "text": "How often do you review your highlighted notes before an exam or presentation?",
+        "options": [
+            ["Always \u2013 thorough review every time", 0],
+            ["Often \u2013 review most of the time", 1],
+            ["Sometimes \u2013 review occasionally", 2],
+            ["Rarely \u2013 almost never review highlights", 3],
+            ["Never \u2013 I do not review highlights", 4]
+        ]
+    },
+    {
+        "id": 8,
+        "text": "How much does your highlighting strategy improve your understanding of complex material?",
+        "options": [
+            ["Greatly \u2013 it significantly aids comprehension", 0],
+            ["Considerably \u2013 noticeable improvement", 1],
+            ["Somewhat \u2013 minor improvement", 2],
+            ["Barely \u2013 little to no improvement", 3],
+            ["Not at all \u2013 it makes no difference or hinders", 4]
+        ]
+    },
+    {
+        "id": 9,
+        "text": "How often do you combine keyword highlighting with margin notes or annotations?",
+        "options": [
+            ["Always \u2013 I always annotate alongside highlights", 0],
+            ["Often \u2013 I annotate most of the time", 1],
+            ["Sometimes \u2013 occasional annotations", 2],
+            ["Rarely \u2013 I seldom add notes", 3],
+            ["Never \u2013 I never annotate", 4]
+        ]
+    },
+    {
+        "id": 10,
+        "text": "How efficiently can you locate specific information in a text using only your highlights?",
+        "options": [
+            ["Very efficiently \u2013 I find it immediately", 0],
+            ["Efficiently \u2013 I find it quickly", 1],
+            ["Moderately \u2013 it takes some time", 2],
+            ["Inefficiently \u2013 it takes a long time", 3],
+            ["Very inefficiently \u2013 I cannot locate it", 4]
+        ]
+    },
+    {
+        "id": 11,
+        "text": "How regularly do you adapt your highlighting technique based on the type of text?",
+        "options": [
+            ["Always \u2013 I tailor my approach every time", 0],
+            ["Often \u2013 I adapt most of the time", 1],
+            ["Sometimes \u2013 I adapt occasionally", 2],
+            ["Rarely \u2013 I use the same approach always", 3],
+            ["Never \u2013 I never consider adapting", 4]
+        ]
+    },
+    {
+        "id": 12,
+        "text": "How well do your highlights help you create summaries or study guides afterwards?",
+        "options": [
+            ["Extremely well \u2013 summaries are easy to build", 0],
+            ["Well \u2013 summaries are mostly straightforward", 1],
+            ["Adequately \u2013 some effort required", 2],
+            ["Poorly \u2013 significant effort still needed", 3],
+            ["Very poorly \u2013 highlights are of no use", 4]
+        ]
+    },
+    {
+        "id": 13,
+        "text": "How aware are you of evidence-based best practices for effective keyword highlighting?",
+        "options": [
+            ["Very aware \u2013 I actively apply research-based methods", 0],
+            ["Aware \u2013 I know and apply some practices", 1],
+            ["Somewhat aware \u2013 I know a little", 2],
+            ["Barely aware \u2013 I have little knowledge", 3],
+            ["Not aware \u2013 I have never studied the topic", 4]
+        ]
+    },
+    {
+        "id": 14,
+        "text": "How often does re-reading your highlights feel insufficient, making you re-read the full text?",
+        "options": [
+            ["Never \u2013 highlights are always sufficient", 0],
+            ["Rarely \u2013 almost always sufficient", 1],
+            ["Sometimes \u2013 occasionally insufficient", 2],
+            ["Often \u2013 frequently insufficient", 3],
+            ["Always \u2013 I always have to re-read fully", 4]
+        ]
+    },
+    {
+        "id": 15,
+        "text": "How satisfied are you with your current highlighting and quick-review strategy overall?",
+        "options": [
+            ["Very satisfied \u2013 it works excellently for me", 0],
+            ["Satisfied \u2013 it works well", 1],
+            ["Neutral \u2013 it works adequately", 2],
+            ["Dissatisfied \u2013 it needs improvement", 3],
+            ["Very dissatisfied \u2013 it does not work for me", 4]
+        ]
+    }
+]
